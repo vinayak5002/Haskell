@@ -1,0 +1,1 @@
+myRepeat a = a : myRepeat a

@@ -1,0 +1,1 @@
+myMax (x:xs) = if null xs then x else max x (myMax xs)
