@@ -1,0 +1,1 @@
+list_com_4 xs = [length x | x<-xs]

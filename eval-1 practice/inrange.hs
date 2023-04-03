@@ -1,0 +1,1 @@
+inRange xs = [x | x<-xs, x>0, x<100]
