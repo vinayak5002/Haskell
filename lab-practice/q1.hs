@@ -1,0 +1,1 @@
+dropUntil f xs = if f (head xs) then xs else dropUntil f (tail xs)
