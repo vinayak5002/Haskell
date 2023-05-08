@@ -1,0 +1,1 @@
+mapList f a b inc = map f [a, a+inc .. b]

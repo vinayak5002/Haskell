@@ -1,0 +1,1 @@
+sumMoreGen a b f inc = foldl (\acc x -> acc + f x) 0 [a, inc a .. b]
